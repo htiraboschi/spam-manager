@@ -1,0 +1,7 @@
+{
+    "conection": {
+        "EMAIL": "your-address@gmail.com",
+        "PASSWORD": "password",
+        "IMAP_SERVER": "imap.gmail.com"
+    }
+}
