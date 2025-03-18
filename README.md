@@ -1,0 +1,1 @@
+Para usar la aplicación, generar un archivo config.json en la misma carpeta del archivo "limpiador de spam.py" con el formato del "config.json" provisto
